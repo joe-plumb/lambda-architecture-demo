@@ -1,0 +1,3 @@
+ADDRESS= "amqps://$EVENTHUBS-NAMESPACE.servicebus.windows.net/$EVENTHUBS-INSTANCE"
+USER = "$KEYNAME"
+KEY = "$SASKEY"

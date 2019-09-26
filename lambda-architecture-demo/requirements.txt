@@ -1,0 +1,7 @@
+certifi
+faker
+flask
+flask_script
+kafka-python
+requests
+azure-eventhub
