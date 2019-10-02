@@ -1,4 +1,5 @@
 # lambda-architecture-demo
+This is a work in progress repo that aims to build out a technical foundation of lab exersizes and examples to demonstrate integration of data services in Azure.
 
 ## Pre-requistes
 - Install Docker in your local environment
